@@ -10,6 +10,7 @@ export class Tab1Page {
   constructor() {
 
     console.log("In dev Branch")
+    console.log("New dev branch chsnge")
   }
 
 }
